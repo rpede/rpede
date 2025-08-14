@@ -24,3 +24,12 @@ I make educational material on programming, DevOps, security and other nerdy stu
 - [CI workflow for React + ASP.NET](https://github.com/rpede/tutorial-fullstack-ci)
 - [Deploy an ASP.NET API with SPA to Google Cloud](https://github.com/rpede/tutorial-deploy-gcloud)
 - [ASP.NET, Manual authentication and authorization](https://github.com/rpede/cds25-tutorial-auth)
+
+## Flutter demos
+
+- [Quiz](https://fluttered-book.github.io/quiz/)
+- [RPN Calculator](https://fluttered-book.github.io/calculator_gui/)
+- [ToDo List](https://fluttered-book.github.io/todo/)
+- [Password Manager](https://fluttered-book.github.io/password_manager/)
+- [Jokes](https://fluttered-book.github.io/jokes/)
+- [Charts](https://rpede.github.io/charts_flutter_examples/)
