@@ -10,7 +10,7 @@ I make educational material on programming, DevOps, security and other nerdy stu
 ## Projects
 
 - [Fluttered Book - a text book on Flutter](https://fluttered-book.github.io/)
-- [Sikkerhed på Spil - oldschool games on security](https://easv-it-sikkerhed.github.io/sikkerhed-paa-spil/)
+- [Sikkerhed på Spil - Cybersecurity games](https://easv-it-sikkerhed.github.io/sikkerhed-paa-spil/)
 - [Connection Strings - Convert DB connection string to .NET format](https://rpede.github.io/connection_strings/)
 - [Dont do this - intentionally vulnerable web application](https://github.com/rpede/dontdothis)
 
@@ -22,7 +22,8 @@ I make educational material on programming, DevOps, security and other nerdy stu
 - [Build a docker image for React](https://github.com/rpede/tutorial-react-docker)
 - [CI workflow for Vite+React](https://github.com/rpede/tutorial-react-ci)
 - [CI workflow for React + ASP.NET](https://github.com/rpede/tutorial-fullstack-ci)
-- [Deploy an ASP.NET API with SPA to Google Cloud](https://github.com/rpede/tutorial-deploy-gcloud)
+- [Deploy ASP.NET + SPA to Google Cloud](https://github.com/rpede/tutorial-deploy-gcloud)
+- [Deploy ASP.NET + SPA to Fly.io](https://github.com/rpede/tutorial-deploy-flyio)
 - [ASP.NET, Manual authentication and authorization](https://github.com/rpede/cds25-tutorial-auth)
 
 ## Flutter demos
