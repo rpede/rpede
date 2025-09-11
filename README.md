@@ -12,7 +12,7 @@ I make educational material on programming, DevOps, security and other nerdy stu
 - [Fluttered Book - a text book on Flutter](https://fluttered-book.github.io/)
 - [Sikkerhed på Spil - Cybersecurity games](https://easv-it-sikkerhed.github.io/sikkerhed-paa-spil/)
 - [Connection Strings - Convert DB connection string to .NET format](https://rpede.github.io/connection_strings/)
-- [Dont do this - intentionally vulnerable web application](https://github.com/rpede/dontdothis)
+- [Monotonic Mouth Organ - pentest target practice](https://github.com/rpede/monotonic-mouth-organ)
 
 ## Tutorials
 
